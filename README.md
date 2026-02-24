@@ -39,9 +39,8 @@ Applied ML to healthcare data for diagnostic support. Built on top of the same M
 ### Stock Market Analysis
 Time series analysis and forecasting on stock market data using Python.
 
-### AWS Hands-On Projects
-Practical AWS implementations covering SageMaker, S3, Lambda and EC2 — built while preparing for the AWS Solutions Architect certification.
-
+### Time Series Causal Analysis
+Time series analysis and causal inference of US Air pollution data.
 ---
 
 ## Research
